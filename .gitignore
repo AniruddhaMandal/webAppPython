@@ -1,3 +1,7 @@
 #virtual enviroment
 envFlask/
+#python cache file
 __pycache__/
+
+Procfile
+runtime.txt
